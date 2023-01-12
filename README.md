@@ -7,13 +7,14 @@
 - [Demo Project](https://zeinab-rezaei-web.github.io/Burger-HomePage)
 
 # Steps to create this 3D stairs:
-<img width="960" alt="step4" src="https://user-images.githubusercontent.com/121185931/212173122-f944bb83-18b7-46c6-bd12-92a9e2365b57.png">- [Demo Project](<img width="960" alt="step2" src="https://user-images.githubusercontent.com/121185931/212172358-63083754-5619-4e6b-9e5d-c9abca646e32.png")
-- [Demo Project](<img width="960" alt="step3" src="https://user-images.githubusercontent.com/121185931/212172426-c8b34c6d-1344-40be-8c12-f01b6b9059ae.png">)
-- [Demo Project](<img width="960" alt="step4" src="https://user-images.githubusercontent.com/121185931/212172492-e17435da-5177-4a1d-aa27-084dcf4963e7.png">)
+<img width="960" alt="step1" src="https://user-images.githubusercontent.com/121185931/212173353-5b5016f5-8e8a-4117-8eca-e06be02ce3e4.png">
+<img width="960" alt="step2" src="https://user-images.githubusercontent.com/121185931/212173357-8d41ee25-b34f-4a3c-a8b0-af216b2d4e72.png">
+<img width="960" alt="step3" src="https://user-images.githubusercontent.com/121185931/212173360-cc40a709-32f5-4374-a80f-e6aaf1cce998.png">
+<img width="960" alt="step4" src="https://user-images.githubusercontent.com/121185931/212173368-c206a3d7-569b-49df-aaa3-0e61a74a1be8.png">
 
 - 👩 Developed by Me: Zeinab Rezaei
 
-- ⏲ Created: 2023-01-06
+- ⏲ Created: 2023-01-12
 
 - 💻 Technologies Used: Html , css 
 
