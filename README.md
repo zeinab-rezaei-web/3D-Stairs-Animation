@@ -3,7 +3,7 @@
 
 - [Demo Project](https://user-images.githubusercontent.com/121185931/212172027-43d68cd4-089c-45e9-8b15-16fc58b3742c.mp4)
 
-- [Demo Project](https://zeinab-rezaei-web.github.io/Burger-HomePage)
+- [Demo Project](https://zeinab-rezaei-web.github.io/3D-Stairs-Animation/)
 
 # Steps to create this 3D stairs:
 <img width="960" alt="step1" src="https://user-images.githubusercontent.com/121185931/212173353-5b5016f5-8e8a-4117-8eca-e06be02ce3e4.png">
